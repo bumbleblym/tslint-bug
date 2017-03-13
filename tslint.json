@@ -1,0 +1,11 @@
+{
+	"rules": {
+		"completed-docs": [true, {
+			"variables": {
+				"visibilities": [
+					"exported"
+				]
+			}
+		}]
+	}
+}

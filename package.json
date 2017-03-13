@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "lint": "tslint -c tslint.json --project tsconfig.json --type-check index.ts"
+  },
+  "devDependencies": {
+    "tslint": "4.5.1",
+    "typescript": "2.2.1"
+  },
+  "private": true
+}
